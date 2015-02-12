@@ -1,0 +1,16 @@
+# Site settings
+title: Kevin W. Lee
+email: kevinwarrenlee@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hello :)  I created this site to inpsire you to do more, consume less, 
+  and live a life of adventure.  Take a look around and remember: 
+    Be creative, serve others, have fun, and make great things!
+    -- Kevin
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kevinwarrenlee.com" # the base hostname & protocol for your site
+twitter_username: kevinwlee
+github_username:  kevinwlee
+instagram_username: kevinwlee
+
+# Build settings
+markdown: kramdown
