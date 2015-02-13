@@ -5,7 +5,9 @@ permalink: /topics/
 ---
 Please check back b/c I'm working hard on this page.  I'm going to blog about a lot of this stuff, but this is the cliff notes version of what I consider the good stuff.  
 
-These are topics, practices, routines, and tools for getting control of your life, finding out who you really are, and persuing your true, most authentic self.  
+These are topics, practices, routines, and tools for getting control of your life, finding out who you really are, and persuing your true, most authentic self.
+
+[This explains it a little.](http://kevinwarrenlee.com/journal/insights/2015/02/12/journal-insights.html)
 
 ### Authentic Self
 
