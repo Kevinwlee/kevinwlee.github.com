@@ -1,8 +1,12 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
+I created this site so that I can share things that are important to me.  If you're interested in what I do for my day job, you can find all that stuff under the **[projects](/projects/)** link.  If your interested in the things that I'm passionate about outside of were, then checkout the one pagers that I have under **[topics](/topics/)**.  I'd love to hear from you, feel free to tweet/email me if you want to chat.
+
+
+### Me
 I love.  I run.  I read. I code. I am.
 
 ### My Task
