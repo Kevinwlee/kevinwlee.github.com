@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-I created this site so that I can share things that are important to me.  If you're interested in what I do for my day job, you can find all that stuff under the **[projects](/projects/)** link.  If your interested in the things that I'm passionate about outside of were, then checkout the one pagers that I have under **[topics](/topics/)**.  I'd love to hear from you, feel free to tweet/email me if you want to chat.
+I created this site so that I can share things that are important to me.  If you're interested in what I do for my day job, you can find all that stuff under the **[projects](/projects/)** link.  If your interested in the things that I'm passionate about outside of work, then checkout the content that I have under **[topics](/topics/)**.  I'd love to hear from you, feel free to tweet/email me if you want to chat.
 
 
 ### Me
-I love.  I run.  I read. I code. I am.
+I run.  I read. I code. I spend my mornings, evenings and weekends playing with my family.  We constantly bounce between gyms, soccer pitches, baseball diamonds, and pools.  It's fun, and busy, and I love it. 
 
 ### My Task
 Live a life that inspires others to do more, consume less, and live a life of adventure.
@@ -27,7 +27,7 @@ Be creative, serve others, have fun, and make great things!
 - Keep your word.
 
 ### My Promise to You
-I will Keep my word. I will back up my promises with hard work and perseverance.  I will add as much value as I can. I will relentlessly pursue My Task.
+I will Keep my word. I will back up my promises with hard work. I will add as much value as I can. I will relentlessly pursue My Task.
 
 
 \#nodaysoff
