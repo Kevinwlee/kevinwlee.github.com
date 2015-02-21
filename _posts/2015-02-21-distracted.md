@@ -4,7 +4,6 @@ title:  "Distracted"
 date:   2015-02-21 12:15:12
 categories: life
 ---
-
 I’m starting to realize that my family, and I presume the rest of the modern world, is living a very digital existence. Most of our time is spent staring at screens, watching shows, playing games, reading social media, watching youtube etc. The thing is, **we** are not digital. We are **alive**!  We breath, and think, and enjoy being close to each other. Yet, in our day to day life, we hardly ever unplug.
 
 When I'm with others I’ve noticed screens are usually between us.  Hell, who could blame us. They are captivating.  They draw us in, they beep and buzz, and it’s hard to ignore them.  The content is interesting.  The shows are exciting.  The posts are intriguing.  So intriguing, that we can sit in the room with each other and not even talk.  We just sit there.  Lost in our minds as we stare at our screens.
