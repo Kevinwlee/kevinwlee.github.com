@@ -4,9 +4,7 @@ title:  Choose Yourself
 date:   2015-03-08 8:55:12
 categories: nutrition
 ---
-
-# Choose Yourself
-I listened to *Choose Yourself!: Be Happy, Make Millions, Live the Dream by James Altucher* ([amazon](http://amzn.com/B00D41EIPU)) in December.  It was a great book.  The premise is that to be successful in life, you need to work on yourself and the rest will fall into place.
+I listened to [*Choose Yourself!: Be Happy, Make Millions, Live the Dream by James Altucher*](http://amzn.com/B00D41EIPU) in December.  It was a great book.  The premise is that to be successful in life, you need to work on yourself and the rest will fall into place.
 
 In my experience, this is very true.  My life has really expanded during the times that I was focused on improving myself mentally and physically. James brakes it down this way.  You have four versions of _You_ that are separate but have a common energy that flow through them.  They are distinct entities, yet very connected.  You must work on all of them daily if you want to be happy and prosper in this world.  The areas are:
 
