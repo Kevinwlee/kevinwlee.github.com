@@ -2,7 +2,7 @@
 layout: post
 title:  "Insights from my Journal"
 date:   2015-02-12 09:33:12
-categories: journal insights
+categories: life
 ---
 
 I've been keeping a journal since April of 2011.  I'm not exactly sure why I started to journal, I can only assume that it originated from a book that I was reading at the time. 

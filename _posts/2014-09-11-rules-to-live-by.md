@@ -2,7 +2,7 @@
 layout: post
 title:  "Rules to Live By"
 date:   2014-09-11 09:33:12
-categories: topics
+categories: life
 ---
 The other day I was thinking about some of the aspects of my life that really fire me up and get me motivated to live with passion.  I started writing them down, and eventually made this list :) 
 

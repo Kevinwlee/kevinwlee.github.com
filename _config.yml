@@ -11,6 +11,7 @@ url: "http://kevinwarrenlee.com" # the base hostname & protocol for your site
 twitter_username: kevinwlee
 github_username:  kevinwlee
 instagram_username: kevinwlee
+paginate: 5
 
 # Build settings
 markdown: kramdown
