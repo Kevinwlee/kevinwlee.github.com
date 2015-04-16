@@ -1,11 +1,9 @@
 ---
-layout:post
-title: "Plant Power Checkin"
+layout: post
+title: Plant Power Checkin
 date: 2015-04-16 08:30:00
 categories: health
 ---
-#Plant Power Check-in
-
 It's been 52 days since I started my [90 Day Plant Power challenge](http://kevinwarrenlee.com/nutrition/2015/02/23/plant-power-90-day-challenge.html) so I thought I'd give you an update.
 
 So far it has been FANTASTIC!  Seriously, I thought this would be much harder than it actually is.  I'm honestly struggling to find anything that I don't like about it.  I miss coffee, but that's about it.  What I've found is that people are genuinely interested in what I'm up to and how I feel.  They always wonder where I get my protein, and my stock answer is "beans and nuts, but did you know that vegetables have proteins too?"  
