@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Topics
 permalink: /topics/
 ---
 Please check back b/c I'm working hard on this page.  I'm going to blog about a lot of this stuff, but this is the cliff notes version of what I consider the good stuff.  

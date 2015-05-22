@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hello :) I created this site to inpsire you to do more, consume less, and live a life of adventure. Take a look around and remember: Be creative, serve others, have fun, and make great things!
 
-If you're interested in what I do for my day job, you can find all that stuff under the **[Work](/work/)** link.  If your interested in the things that I'm passionate about outside of work, then checkout the content that I have under **[topics](/topics/)**.  I'd love to hear from you, feel free to tweet/email me if you want to chat.
+If you're interested in what I do for my day job, you can find all that stuff under the **[Work](/work/)** link.  If your interested in the things that I'm passionate about outside of work, then checkout my **[Blog](/)**.  I'd love to hear from you, feel free to tweet/email me if you want to chat.
 
 
 ### Me
