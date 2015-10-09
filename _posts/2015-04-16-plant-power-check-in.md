@@ -3,6 +3,7 @@ layout: post
 title: Plant Power Checkin
 date: 2015-04-16 08:30:00
 categories: health
+comments: true
 ---
 It's been 52 days since I started my [90 Day Plant Power challenge](http://kevinwarrenlee.com/nutrition/2015/02/23/plant-power-90-day-challenge.html) so I thought I'd give you an update.
 

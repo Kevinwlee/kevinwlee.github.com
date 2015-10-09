@@ -3,6 +3,7 @@ layout: post
 title:  Choose Yourself
 date:   2015-03-08 8:55:12
 categories: life
+comments: true
 ---
 I listened to [*Choose Yourself!: Be Happy, Make Millions, Live the Dream by James Altucher*](http://amzn.com/B00D41EIPU) in December.  It was a great book.  The premise is that to be successful in life, you need to work on yourself and the rest will fall into place.
 

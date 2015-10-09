@@ -3,6 +3,7 @@ layout: post
 title:  Running 39 Miles on My 39th Birthday
 date:   2015-06-24 7:22:00
 categories: running
+comments: true
 ---
 If you didn't already know, running is becoming an obsession of mine.  So a few days before my 39th birthday I mentioned to my wife that I wanted to try to **run my age in miles**. She smiled and said "that's cool! I think you can do it."  I wasn't so sure, but her confidence gave me the courage to try. So on June 8th, at 4am, I laced up my shoes and set out to do something big.
 

@@ -3,6 +3,7 @@ layout: post
 title:  Plant Power 90 Day Challenge
 date:   2015-02-23 1:55:12
 categories: nutrition
+comments: true
 ---
 
 I love a good challenge.  Today I have embarked on a 90 day nutrition challenge.  I’m going to eat nothing but plant based whole foods for the next 90 days.  That’s no meat, no dairy, no processed foods, no alcohol.  I’ve even decided to drop coffee for the first few weeks.

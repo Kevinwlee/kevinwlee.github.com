@@ -3,6 +3,7 @@ layout: post
 title:  From Commuting to Living
 date:   2015-03-25 10:05:12
 categories: life
+comments: true
 ---
 Do you commute to work?  How long is your commute? I'm a pretty lucky person. I commute into an office only one day a week. Today my commute was over an hour long.  It’s about 40 miles, and it’s jam packed with cars. 40 miles of pavement packed with cars chugging away on gasoline, filled with overweight people chugging away on coffee.
 
