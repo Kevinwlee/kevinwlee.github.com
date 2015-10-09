@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Failure is Learning
-permalink: :title
+permalink: failure-is-learning
 date:   2015-10-09 2:30:12
 categories: life
 comments: true
