@@ -50,19 +50,19 @@ If you're interested in learning more about the health benefits of the plant bas
 
 ### General Advice
 
-My advice is simple, and you probably already know it:  eat your fruits and veggies. Start by adding more veggies to each of your meals. Don't worry about cutting out anything at first, just focus on filling the majority of your plate veggies.  Eat them first, and then carry on as usual.  You can eat them raw, cooked, baked, grilled, however you like.  Don't worry about carbs or fat or anything.  Just start working in the good stuff.
+My advice is simple, and you probably already know it:  eat your fruits and veggies. Start by adding more veggies to each of your meals. Don't worry about cutting out anything at first, just focus on filling the majority of your plate with veggies.  Eat them first, and then carry on as usual.  You can eat them raw, cooked, baked, grilled, however you like.  Don't worry about carbs or fat or anything.  Just start working in the good stuff.
 
-If you're looking for recipes, I highly recommend http://www.thugkitchen.com/  We have the book and have cooked almost everything in it.
+If you're looking for recipes, I highly recommend http://www.thugkitchen.com/  We have both of their books and have cooked almost everything in them.
 
 **My day generally looks like this:**
 
-- Green Smoothie for breakfast (kale, collards, pumpkin seeds, chia seeds, hemp seeds, almonds, chlorella, spirulina, frozen blueberries and strawberries, Vega vanilla protein powder and filtered water).  Throw it in a Vitamix or Blendtec blender and mmm mmm good.
+- Green Smoothie for breakfast (kale, collards, pumpkin seeds, chia seeds, hemp seeds, almonds, chlorella, spirulina, banana, frozen blueberries and strawberries, Vega vanilla protein powder and filtered water).  Throw it in a Vitamix or Blendtec blender and mmm mmm good.
 - Apple or Nuts or both for a snack
-- Big green salad for lunch.  I load it with veggies, nuts, seeds.  Sometimes I top it with extra virgin olive oil and Balsamic vinegar, and sometimes I top it with salsa.
-- I usually have a Tomato and Avocado sandwich at some point in the day. Slice a tomato, slice an avocado, sprinkle with salt and pepper, make s sandwich and boom!.  I recommend using Ezekial bread which is found in the freezer section instead of the junk bread that people normally buy.  It's made from sprouted grains.
+- Big green salad for lunch.  I load it with veggies, nuts, and seeds.  Sometimes I top it with extra virgin olive oil and balsamic vinegar, and sometimes I top it with salsa.
+- I usually have a tomato and avocado sandwich at some point in the day. Slice a tomato, slice an avocado, sprinkle with salt and pepper, make a sandwich and boom! I recommend using Ezekiel bread which is found in the freezer section instead of the junk bread that people normally buy.  It's made from sprouted grains, which your body loves.
 - Our dinners usually consist of veggies (baked, stir fried, grilled, stewed, etc) with a side of rice or quinoa.
 
-Other simple meals: take any veggies you like, we use zucchini, yellow squash, onion, green beans, okra, sweet potatoes, bell peppers, all fresh.  We slice them as needed so that they can fit on a fork and throw them in a baking dish.  We lightly cover the veggies in olive oil, then spice them up with salt, cumin, chili pepper, and whatever else you like.  Throw that in the oven on 375 for 20 - 40 minutes, depending on how soft you like your veggies, and boom you're done.  We'll eat it on rice, or in taco shells, or on salads, as lettuce wraps, or with pesto.
+Other simple meals: take any veggies you like, we use zucchini, yellow squash, onion, green beans, okra, sweet potatoes, bell peppers, all fresh and/or frozen.  We slice them as needed so that they can fit on a fork and throw them in a baking dish.  We lightly cover the veggies in olive oil or coconut oil, then spice them up with salt, cumin, chili pepper, and whatever else you like.  Throw that in the oven on 375 for 20 - 40 minutes, depending on how soft you like your veggies, and boom you're done.  We'll eat it on rice, in taco shells, on salads, in lettuce wraps, or with pesto.
 
 You can basically do the same thing and stir fry it, I'd add some soy sauce to the stir fry, and then make a side of fried rice.
 
