@@ -10,11 +10,11 @@ I switched to a plant-based diet in February of 2015.  It was a little experimen
 
 ## Getting Started
 
-Here are some links to information that should get you on your way.
+Here are some links to information that will get you on your way.
 
 **External Links**
 
-1. [My Two Week Plant-Based Meal Plan](https://leanpub.com/twoweekplantbasedmealplan)
+1. [My Two Week Plant-Based Meal Plan](https://leanpub.com/twoweekplantbasedmealplan) (I am writing it now)
 1. [Thug Cookbook](http://amzn.to/1N3ixDl)
 1. [Thug Kitchen](http://www.thugkitchen.com/)
 1. [Oh She Glows](http://ohsheglows.com/)
@@ -26,7 +26,7 @@ Here are some links to information that should get you on your way.
 1. [Take the 90 day challenge](http://kevinwarrenlee.com/nutrition/2015/02/23/plant-power-90-day-challenge.html)
 
 ## Health Resources
-If you're interested in learning more about the health benefits of the plant based diet, I highly recommend the following books and movies.
+If you're interested in learning more about the health benefits of a plant based diet, I highly recommend the following books and movies.
 
 **Books**
 
