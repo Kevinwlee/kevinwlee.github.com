@@ -3,7 +3,6 @@ layout: page
 title: Plant-Based
 permalink: /plant-based/
 ---
-# Plant-Based
 If you want to feel younger, live longer, get slimmer, sleep better, recover faster, reduce stress, resist infections, reverse chronic disease, prevent chronic disease, be more productive, and do it all with increased energy and vitality, then **it's time to change what you put on your plate.**
 
 I switched to a plant-based diet in February of 2015.  It was a little experiment, and after 20 days, I never looked back. Swapping meat and dairy for fruits and veggies has litterly changed my life, and it will do the same for you.
