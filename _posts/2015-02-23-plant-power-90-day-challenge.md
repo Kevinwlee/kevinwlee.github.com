@@ -2,7 +2,7 @@
 layout: post
 title:  Plant Power 90 Day Challenge
 date:   2015-02-23 1:55:12
-categories: nutrition
+categories: health
 comments: true
 ---
 
@@ -17,4 +17,3 @@ So today, I’m taking it for a spin.  Wish me luck.
 
 ### Status
 I weighed in this morning at 188.2, I felt a little groggy, and really wanted some coffee.  As I write this now, my head is a little foggy, I feel pretty mellow, and would like to take a nap.
-
