@@ -2,7 +2,7 @@
 layout: post
 title:  Plant Power 90 Day Challenge
 date:   2015-02-23 1:55:12
-categories: health
+categories: nutrition
 comments: true
 ---
 

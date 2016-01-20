@@ -2,7 +2,7 @@
 layout: post
 title: Plant Power Checkin
 date: 2015-04-16 08:30:00
-categories: health
+categories: nutrition
 comments: true
 ---
 It's been 52 days since I started my [90 Day Plant Power challenge](http://kevinwarrenlee.com/nutrition/2015/02/23/plant-power-90-day-challenge.html) so I thought I'd give you an update.
@@ -17,6 +17,6 @@ The second thing I've noticed is a change in the quality of sleep that I get eac
 
 Another interesting finding is that my chronically runny nose has completely cleared up.  That's right, I can actually breath through my nose when I run.  I'm not exactly sure why, but I think that I might have a slight allergy to dairy.
 
-I've started to lose weight too.  I'm down about 10 pounds, but I've dropped 2.5% of my body fat.  It didn't come off right away, but over the last 2-3 weeks it's really started to fall off.  I didn't do this to lose weight, but I'm happy with the slow and steady results. 
+I've started to lose weight too.  I'm down about 10 pounds, but I've dropped 2.5% of my body fat.  It didn't come off right away, but over the last 2-3 weeks it's really started to fall off.  I didn't do this to lose weight, but I'm happy with the slow and steady results.
 
 So in summary, I feel better than I have in a long time.  I sleep soundly, I exercise more than I thought was humanly possible, I have loads of energy,  I'm down to a weight that I haven't seen since my Sophomore year of high school (22 years ago), and I'm having a positive impact on the people that I love.  The question I keep asking myself now is, will the 90 day challenge ever end?
