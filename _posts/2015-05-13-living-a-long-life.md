@@ -2,7 +2,7 @@
 layout: post
 title:  Living a Long Life
 date:   2015-05-13 7:22:00
-categories: nutrition
+categories: health
 comments: true
 ---
 I was listening to [RRP 128](http://www.richroll.com/podcast/is-butter-really-back-heart-to-heart-with-cardiologist-joel-kahn-md-rrp-128/) (Rich Roll Podcast), an interview with cardiologist Joel Kahn.  It was great to actually hear a doctor defend a healthy, nutritious, plant based lifestyle. He discussed the science that backs up the theory that eating unprocessed whole foods is the best thing for health and longevity. He points out that almost all studies on disease find that around **80% of the diseases in our country can be reversed with nutrition and fitness plans**.
@@ -71,4 +71,3 @@ One last thing... Doctor Kahn mentioned that a group of his patients started a m
 
 
 _from my journal on February 5 2015_
-
