@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Plant Based Marathon
+title:  Plant-Based Marathon
 permalink: plant-based-marathon
 date:   2016-02-12 9:45:12
 categories: running
