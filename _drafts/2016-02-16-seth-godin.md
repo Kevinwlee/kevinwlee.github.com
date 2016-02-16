@@ -2,7 +2,7 @@
 layout: post
 title:  Seth Godin
 permalink: seth-godin
-date:   2016-02-12 9:45:12
+date:   2016-02-16 9:45:12
 categories: life
 comments: productivity
 ---
@@ -11,22 +11,23 @@ I think Seth Godin is my favorite author and thinker.  I share a lot of his view
 
 **Videos**
 
-https://www.ted.com/speakers/seth_godin
-http://99u.com/videos/5822/seth-godin-quieting-the-lizard-brain
+Seth is a great speaker. If you want an introduction to his ideas, checkout out the Lizard brain talk or his TED talks.
+
+- https://vimeo.com/5895898
+- https://www.ted.com/speakers/seth_godin
 
 **Books**
 
-TODO:summarize
-
-Seth Godin reads all of his books, and I think his books are designed to be read over and over.
+I found Seth by downloading Lynchpin on Audible.  To be honest, I've never read one of Seth's books, but I've listened to the following more than once, and I listen to Lynchpin at least once a year.  
 
 - [Lynchpin](http://amzn.to/1PzqVMz)
 - [Tribes](http://amzn.to/1PzqXUB)
 - [Icarus Deception](http://amzn.to/214xPP2)
 - [Purple Cow](http://amzn.to/214xH1U)
+- [The Dip]()
 
 **On The Web**
 
-TODO: summarize
+Finally, his blog is where you can get small doses of Seth and current line of thinking.
 
 http://sethgodin.typepad.com/
