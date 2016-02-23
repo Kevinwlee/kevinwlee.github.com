@@ -23,8 +23,8 @@ I found Seth by downloading Lynchpin on Audible.  To be honest, I've never read 
 
 Seth is a great speaker. If you want an introduction to his ideas, checkout out the Lizard brain talk or his TED talks.
 
-- https://vimeo.com/5895898
-- https://www.ted.com/speakers/seth_godin
+- [https://vimeo.com/5895898](https://vimeo.com/5895898)
+- [https://www.ted.com/speakers/seth_godin](https://www.ted.com/speakers/seth_godin)
 
 **On The Web**
 
