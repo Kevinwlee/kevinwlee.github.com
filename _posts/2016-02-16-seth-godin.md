@@ -30,6 +30,6 @@ Seth is a great speaker. If you want an introduction to his ideas, checkout out 
 
 Finally, his blog is where you can get small doses of Seth.
 
-http://sethgodin.typepad.com/
+[http://sethgodin.typepad.com/](http://sethgodin.typepad.com/)
 
 Hope you enjoy him as much as I do.
