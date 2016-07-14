@@ -14,7 +14,6 @@ Here are some links to information that will get you on your way.
 
 **External Links**
 
-1. [My Two Week Plant-Based Meal Plan](https://leanpub.com/twoweekplantbasedmealplan) (I am writing it now)
 1. [Thug Cookbook](http://amzn.to/1N3ixDl)
 1. [Thug Kitchen](http://www.thugkitchen.com/)
 1. [Oh She Glows](http://ohsheglows.com/)
