@@ -12,6 +12,7 @@ twitter_username: kevinwlee
 github_username:  kevinwlee
 instagram_username: kevinwlee
 paginate: 10
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
