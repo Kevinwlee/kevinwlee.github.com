@@ -19,7 +19,7 @@ After some searching [I found a library ](https://github.com/firebase/firebase-a
 
 With the firebase library, I was now able to glue all my worlds together.  So I built an arduino based project that writes temperature and humidity data to firebase.  
 
-![Thing with a DHT22 temperature and humidity sensor]({{"/img/thing-temp-bot.JPG"}})  
+![Thing with a DHT22 temperature and humidity sensor]({{"/img/thing-temp-bot.jpg"}})  
 
 Then I built an ember website that reads that data real-time.  I quickly followed that up with an Android app and then an iOS app, both of which show the data from the Thing dev boards real-time.
 
