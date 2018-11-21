@@ -10,7 +10,7 @@ I knew I couldn’t resist.  Yesterday I wired up a thing dev board to my garage
 
 //Insert video here:
 
-But just hitting a URL isn’t fun right?  Nope, so I’ve hooked it up to a little node service that monitors firebase.  Now all I need to do to open/close my garage is hit change a value in firebase and boom, the door moves.
+But just hitting a URL isn’t fun right?  Nope, so I’ve hooked it up to a little node service that monitors firebase.  Now all I need to do to open/close my garage is change a value in firebase and boom, the door moves.
 
 //Show the app here:
 
