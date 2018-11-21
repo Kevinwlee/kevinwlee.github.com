@@ -10,10 +10,13 @@ A while back I was working on a garage controller and I wanted to know when the 
 
 ```c++
 int ledPin = 13;   // LED connected to digital pin 13
-int reed = 0;      // variable to store the reed value
+int reedPin = 7;   // Pin connected to the reed switch
+int val = 0;       // variable to store the read value
+
 
 void setup() {
-  pinMode(ledPin, OUTPUT);
+  pinMode(ledPin, OUTPUT);      // sets the LED as output
+  pinMode(reedPin, INPUT);        // sets Reed as input
 }
 
 void loop() {
@@ -21,7 +24,7 @@ void loop() {
 }
 
 void checkDoor() {
-  reed = digitalRead(inPin);
-  digitalWrite(ledPin, reed);
+  val = digitalRead(reedPin);     // read the input pin
+  digitalWrite(ledPin, val);    // sets the LED to the button's value  
 }
 ```
