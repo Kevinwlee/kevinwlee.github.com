@@ -16,7 +16,7 @@ int val = 0;       // variable to store the read value
 
 void setup() {
   pinMode(ledPin, OUTPUT);      // sets the LED as output
-  pinMode(reedPin, INPUT);        // sets Reed as input
+  pinMode(reedPin, INPUT);      // sets Reed as input
 }
 
 void loop() {
@@ -24,7 +24,7 @@ void loop() {
 }
 
 void checkDoor() {
-  val = digitalRead(reedPin);     // read the input pin
-  digitalWrite(ledPin, val);    // sets the LED to the button's value  
+  val = digitalRead(reedPin);   // read the input pin on the reed switch
+  digitalWrite(ledPin, val);    // sets the LED to the value  of the reed switch
 }
 ```
