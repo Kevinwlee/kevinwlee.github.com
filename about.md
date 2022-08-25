@@ -9,8 +9,6 @@ If you're interested in what I do for my day job, you can find all that stuff un
 
 
 ### Me
-I run.  I read. I code. I spend my mornings, evenings and weekends playing with my family.  We constantly bounce between gyms, soccer pitches, baseball diamonds, and pools.  It's fun, and busy, and I love it.
-
 I've found that I'm happiest when I live by a few simple rules.  If you want to know what makes me tick, here they are:
 
 **Rules to Live By**
@@ -25,5 +23,3 @@ I've found that I'm happiest when I live by a few simple rules.  If you want to 
 - Don’t care what others think of you, stay centered and solid.
 - Keep your word.
 
-
-\#nodaysoff
